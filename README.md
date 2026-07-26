@@ -1,0 +1,1 @@
+<img src="https://github.com/OmkarVijayBagade/CryptoAppLearn/blob/main/CryptoApp/Simulator%20Screen%20Recording%20-%20iPhone%2017%20Pro%20-%202026-07-26%20at%2019.49.35.gif" alt="screen gif" width="260" height="520">
